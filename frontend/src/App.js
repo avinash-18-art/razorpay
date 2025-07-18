@@ -60,7 +60,7 @@ function App() {
         email: "chauhanavinash36869@gmail.com"
       },
       theme: {
-        color: "#2A63F6"
+        color: "#032d99ff"
       }
     };
 

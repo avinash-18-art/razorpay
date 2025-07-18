@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const Razorpay = require('razorpay');
-require('dotenv').config(); // Load .env if used
+require('dotenv').config(); 
 
 const app = express();
 const port = 5000;
